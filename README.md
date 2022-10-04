@@ -1,6 +1,6 @@
 # WEBP Conversion
 
-Put your (png/jpeg/jpg) files into images folder then run
+Put your (png/jpeg/jpg) files into the images folder then run
 
 ```javascript
 $ yarn start
